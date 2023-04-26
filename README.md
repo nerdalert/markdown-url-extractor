@@ -7,7 +7,7 @@ To use the program, you'll need to have Go installed on your system. If you don'
 Once you have Go installed, you can clone the program's source code from GitHub:
 
 ```
-git clone https://github.com/yourusername/markdown-url-extractor.git
+git clone https://github.com/nerdalert/markdown-url-extractor.git
 ```
 
 Change into the program's directory:
